@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on IoT topics!
+- 🌱 I’m fullstack dotnet developer.
 - 📫 Reach me: rezaahmadidvlp@gmail.com
-
+- ❤️ I'm interested in IoT topics.
